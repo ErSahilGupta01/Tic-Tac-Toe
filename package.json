@@ -9,7 +9,7 @@
     "react-scripts": "1.0.0"
   },
   "name": "q7cypy",
-  "description": null,
+  "description": "null",
   "version": "0.0.0",
   "scripts": {
     "start": "react-scripts start",
